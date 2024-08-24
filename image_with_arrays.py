@@ -13,8 +13,7 @@ black = np.zeros([100,100])
 #col = black[ :,1:3]
 #print(col)
 
-black[40:60, 10:30] = 255
+#linhas e colunas #BRANCA
 
 
-cv2.imshow("preto",black)
-cv2.waitKey(0)
+#mostre
